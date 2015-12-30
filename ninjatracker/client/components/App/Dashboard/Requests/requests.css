@@ -1,0 +1,10 @@
+.request {
+    margin: 15px;
+    background: powderblue;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.select-ninja {
+    display: none;
+}
